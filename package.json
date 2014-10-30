@@ -1,0 +1,28 @@
+{
+  "name": "query-databases",
+  "version": "0.0.1",
+  "description": "query databases with async",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "mongodb": "^1.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nukr/query-databases.git"
+  },
+  "keywords": [
+    "mongodb",
+    "async"
+  ],
+  "author": "Nukr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nukr/query-databases/issues"
+  },
+  "homepage": "https://github.com/nukr/query-databases"
+}
