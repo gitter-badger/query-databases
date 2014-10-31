@@ -63,10 +63,8 @@ function deleteCompanyRelateInfo() {
         queryCompany,
         queryOrg,
         queryRole,
-        queryUser,
-    ],
-        done
-    );
+        queryUser
+    ], done );
 }
 
 deleteCompanyRelateInfo();
